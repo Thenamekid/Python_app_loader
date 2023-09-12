@@ -1,0 +1,7 @@
+{
+    "name": "RNG",
+    "description": "A simple random number generator editor",
+    "icon": "RNG.png",
+    "script": "RNG.py",
+    "directory": "RNG"
+}

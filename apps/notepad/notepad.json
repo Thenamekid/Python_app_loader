@@ -1,0 +1,7 @@
+{
+    "name": "Notepad",
+    "description": "A simple text editor",
+    "icon": "notepad.png",
+    "script": "notepad.py",
+    "directory": "notepad"
+}

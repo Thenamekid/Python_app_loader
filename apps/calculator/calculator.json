@@ -1,0 +1,7 @@
+{
+    "name": "Calculator",
+    "description": "A simple calculator app",
+    "icon": "calculator.png",
+    "script": "calculator.py",
+    "directory": "calculator"
+}
